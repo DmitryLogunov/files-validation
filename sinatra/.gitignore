@@ -1,0 +1,6 @@
+.ruby-gemset
+log
+tmp
+.idea
+config/application.yml
+config/database.yml

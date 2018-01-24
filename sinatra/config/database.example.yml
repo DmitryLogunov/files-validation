@@ -1,0 +1,8 @@
+adapter: mysql2
+pool: 15
+timeout: 5000
+encoding: utf8
+host: localhost
+username:
+password:
+database:
